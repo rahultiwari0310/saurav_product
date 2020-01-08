@@ -43,51 +43,6 @@ let inventory = [
         id: 9,
         name: 'Poha',
         factor: 2.6
-    },
-    {
-        id: 1,
-        name: 'Samosa',
-        factor: 0.9
-    },
-    {
-        id: 2,
-        name: 'Chai',
-        factor: 0.8
-    },
-    {
-        id: 3,
-        name: 'Dosa',
-        factor: 0.7
-    },
-    {
-        id: 4,
-        name: 'Vada',
-        factor: 0.6
-    },
-    {
-        id: 5,
-        name: 'Kachori',
-        factor: 0.5
-    },
-    {
-        id: 6,
-        name: 'Chat',
-        factor: 0.4
-    },
-    {
-        id: 7,
-        name: 'Namkeen',
-        factor: 1.4
-    },
-    {
-        id: 8,
-        name: 'Idli',
-        factor: 11
-    },
-    {
-        id: 9,
-        name: 'Poha',
-        factor: 2.6
     }
 ]
 
